@@ -1,0 +1,9 @@
+- Test : test1
+  File : examples/Sample1.yml
+  Input :
+  - aaabbb
+  - aaacbbb
+- Test : test2
+  File : examples/Sample1.yml
+  Input :
+  - abcd
